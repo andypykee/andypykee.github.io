@@ -1,17 +1,18 @@
 # andypykee.github.io
-# # Projects
-# # # Project 1
+#
+## Projects
+### Project 1
 Description
 Links
 #
-# # Project 2
+## Project 2
 Description
 Links
 #
-# # Education
+## Education
 Some Unviversity
 #
-# # Work History
+## Work History
 Workplace 1
 Workplace 2
     
