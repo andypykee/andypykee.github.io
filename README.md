@@ -4,8 +4,8 @@
 Description
 Links
 ## Project 2
-Description
-Links
+% Description
+% Links
 ## Education
 Some Unviversity
 ## Work History
